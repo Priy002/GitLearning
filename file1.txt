@@ -3,5 +3,5 @@ Greetings, welcome to session!
 
 Added a function to Featur2(){
 //do something here to implement feature2
-//
+//Adding one line to enhance Feature2
 }
