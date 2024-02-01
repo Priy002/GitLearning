@@ -7,4 +7,4 @@ Added a function to Featur2(){
 //one line added here to fix Bug 1
 }
 Bug 1 is fixed with this new line.
-
+Added one line on remote repo.
